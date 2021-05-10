@@ -1,0 +1,451 @@
+[{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc6461"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M",
+  "uri": "spotify:playlist:37i9dQZF1DXcBWIGoYBM5M",
+  "name": "Today's Top Hits",
+  "tracks": 50,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc6462"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX0kbJZpiYdZl",
+  "uri": "spotify:playlist:37i9dQZF1DX0kbJZpiYdZl",
+  "name": "Hot Hits USA",
+  "tracks": 50,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc6463"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWUa8ZRTfalHk",
+  "uri": "spotify:playlist:37i9dQZF1DWUa8ZRTfalHk",
+  "name": "Pop Rising",
+  "tracks": 85,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc6464"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX2L0iB23Enbq",
+  "uri": "spotify:playlist:37i9dQZF1DX2L0iB23Enbq",
+  "name": "Viral Hits",
+  "tracks": 102,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc6465"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWWvvyNmW9V9a",
+  "uri": "spotify:playlist:37i9dQZF1DWWvvyNmW9V9a",
+  "name": "Teen Beats",
+  "tracks": 105,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc6466"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX4JAvHpjipBk",
+  "uri": "spotify:playlist:37i9dQZF1DX4JAvHpjipBk",
+  "name": "New Music Friday",
+  "tracks": 98,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc6467"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXbYM3nMM0oPk",
+  "uri": "spotify:playlist:37i9dQZF1DXbYM3nMM0oPk",
+  "name": "Mega Hit Mix",
+  "tracks": 75,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc6468"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX0b1hHYQtJjp",
+  "uri": "spotify:playlist:37i9dQZF1DX0b1hHYQtJjp",
+  "name": "Just Good Music",
+  "tracks": 76,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc6469"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWTwnEm1IYyoj",
+  "uri": "spotify:playlist:37i9dQZF1DWTwnEm1IYyoj",
+  "name": "Soft Pop Hits",
+  "tracks": 241,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc646a"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX0s5kDXi1oC5",
+  "uri": "spotify:playlist:37i9dQZF1DX0s5kDXi1oC5",
+  "name": "Hit Rewind",
+  "tracks": 75,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc646b"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXa2PvUpywmrr",
+  "uri": "spotify:playlist:37i9dQZF1DXa2PvUpywmrr",
+  "name": "Party Hits",
+  "tracks": 75,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc646c"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX5gQonLbZD9s",
+  "uri": "spotify:playlist:37i9dQZF1DX5gQonLbZD9s",
+  "name": "Pumped Pop",
+  "tracks": 60,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc646d"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX6OgmB2fwLGd",
+  "uri": "spotify:playlist:37i9dQZF1DX6OgmB2fwLGd",
+  "name": "Internet People",
+  "tracks": 103,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc646e"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX66m4icL86Ru",
+  "uri": "spotify:playlist:37i9dQZF1DX66m4icL86Ru",
+  "name": "BBE",
+  "tracks": 87,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc646f"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWYs83FtTMQFw",
+  "uri": "spotify:playlist:37i9dQZF1DWYs83FtTMQFw",
+  "name": "Hot Rhythmic",
+  "tracks": 80,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc6470"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXcRXFNfZr7Tp",
+  "uri": "spotify:playlist:37i9dQZF1DXcRXFNfZr7Tp",
+  "name": "just hits",
+  "tracks": 101,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc6471"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXaPCIWxzZwR1",
+  "uri": "spotify:playlist:37i9dQZF1DXaPCIWxzZwR1",
+  "name": "Pop Sauce",
+  "tracks": 108,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc6472"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWZQaaqNMbbXa",
+  "uri": "spotify:playlist:37i9dQZF1DWZQaaqNMbbXa",
+  "name": "Dance Pop Hits",
+  "tracks": 150,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc6473"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWWEcRhUVtL8n",
+  "uri": "spotify:playlist:37i9dQZF1DWWEcRhUVtL8n",
+  "name": "Indie Pop",
+  "tracks": 125,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc6474"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX3WvGXE8FqYX",
+  "uri": "spotify:playlist:37i9dQZF1DX3WvGXE8FqYX",
+  "name": "Women of Pop",
+  "tracks": 70,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc6475"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXcxvFzl58uP7",
+  "uri": "spotify:playlist:37i9dQZF1DXcxvFzl58uP7",
+  "name": "Bedroom Pop",
+  "tracks": 115,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc6476"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWXti3N4Wp5xy",
+  "uri": "spotify:playlist:37i9dQZF1DWXti3N4Wp5xy",
+  "name": "Pop Party",
+  "tracks": 100,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc6477"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah",
+  "uri": "spotify:playlist:37i9dQZF1DXdwmD5Q7Gxah",
+  "name": "Lorem",
+  "tracks": 176,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc6478"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX4pUKG1kS0Ac",
+  "uri": "spotify:playlist:37i9dQZF1DX4pUKG1kS0Ac",
+  "name": "Guilty Pleasures",
+  "tracks": 151,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc6479"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX4mWCZw6qYIw",
+  "uri": "spotify:playlist:37i9dQZF1DX4mWCZw6qYIw",
+  "name": "songs to scream in the car",
+  "tracks": 60,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc647a"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWSPMbB1kcXmo",
+  "uri": "spotify:playlist:37i9dQZF1DWSPMbB1kcXmo",
+  "name": "internet rewind",
+  "tracks": 80,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc647b"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXbIGqYf7WDxP",
+  "uri": "spotify:playlist:37i9dQZF1DXbIGqYf7WDxP",
+  "name": "Pop Chillout",
+  "tracks": 101,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc647c"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX2lVtkHKv2NU",
+  "uri": "spotify:playlist:37i9dQZF1DX2lVtkHKv2NU",
+  "name": "internet crush",
+  "tracks": 75,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc647d"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX7HOk71GPfSw",
+  "uri": "spotify:playlist:37i9dQZF1DX7HOk71GPfSw",
+  "name": "hyperpop",
+  "tracks": 75,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc647e"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX0MLFaUdXnjA",
+  "uri": "spotify:playlist:37i9dQZF1DX0MLFaUdXnjA",
+  "name": "Chill Pop",
+  "tracks": 130,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc647f"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe",
+  "uri": "spotify:playlist:37i9dQZF1DX6tPTxr8qwRe",
+  "name": "SALT",
+  "tracks": 138,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc6480"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX9vJ2U3sN7xj",
+  "uri": "spotify:playlist:37i9dQZF1DX9vJ2U3sN7xj",
+  "name": "Fiesta",
+  "tracks": 106,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc6481"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX4oUPBOaEkL6",
+  "uri": "spotify:playlist:37i9dQZF1DX4oUPBOaEkL6",
+  "name": "Éxitos USA",
+  "tracks": 50,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc6482"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX4VvfRBFClxm",
+  "uri": "spotify:playlist:37i9dQZF1DX4VvfRBFClxm",
+  "name": "Acoustic Hits",
+  "tracks": 100,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc6483"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWWOGXILUAh53",
+  "uri": "spotify:playlist:37i9dQZF1DWWOGXILUAh53",
+  "name": "Fresh Dance Pop",
+  "tracks": 98,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc6484"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX5CdVP4rz81C",
+  "uri": "spotify:playlist:37i9dQZF1DX5CdVP4rz81C",
+  "name": "Fresh & Chill",
+  "tracks": 102,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc6485"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWWqNV5cS50j6",
+  "uri": "spotify:playlist:37i9dQZF1DWWqNV5cS50j6",
+  "name": "Anti Pop",
+  "tracks": 159,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc6486"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXdWMJMjqz9bm",
+  "uri": "spotify:playlist:37i9dQZF1DXdWMJMjqz9bm",
+  "name": "Varsity Bars",
+  "tracks": 102,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc6487"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWWxrt1tiKYiX",
+  "uri": "spotify:playlist:37i9dQZF1DWWxrt1tiKYiX",
+  "name": "Unplugged",
+  "tracks": 114,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc6488"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWZUAeYvs88zc",
+  "uri": "spotify:playlist:37i9dQZF1DWZUAeYvs88zc",
+  "name": "Sad Bops",
+  "tracks": 80,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc6489"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX5Vy6DFOcx00",
+  "uri": "spotify:playlist:37i9dQZF1DX5Vy6DFOcx00",
+  "name": "big on the internet",
+  "tracks": 95,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc648a"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWYkaDif7Ztbp",
+  "uri": "spotify:playlist:37i9dQZF1DWYkaDif7Ztbp",
+  "name": "African Heat",
+  "tracks": 50,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc648b"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWXqzQh2VQNvW",
+  "uri": "spotify:playlist:37i9dQZF1DWXqzQh2VQNvW",
+  "name": "Vibes Right Now",
+  "tracks": 93,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc648c"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWViBxWcYEI1b",
+  "uri": "spotify:playlist:37i9dQZF1DWViBxWcYEI1b",
+  "name": "Contemporary Blend",
+  "tracks": 83,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc648d"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXcTieYAg7jq1",
+  "uri": "spotify:playlist:37i9dQZF1DXcTieYAg7jq1",
+  "name": "Retro Pop",
+  "tracks": 148,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc648e"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWYWvT3ntvdRD",
+  "uri": "spotify:playlist:37i9dQZF1DWYWvT3ntvdRD",
+  "name": "Addison & Sheri's Mixtape",
+  "tracks": 41,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc648f"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX5PcuIKocvtW",
+  "uri": "spotify:playlist:37i9dQZF1DX5PcuIKocvtW",
+  "name": "PopRox",
+  "tracks": 83,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc6490"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXaK0O81Xtkis",
+  "uri": "spotify:playlist:37i9dQZF1DXaK0O81Xtkis",
+  "name": "soda",
+  "tracks": 181,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc6491"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP",
+  "uri": "spotify:playlist:37i9dQZF1DX3LyU0mhfqgP",
+  "name": "Out Now",
+  "tracks": 55,
+  "category": "pop"
+},{
+  "_id": {
+    "$oid": "6099c231a788b24c3fdc6492"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8f6LHxMjnzD",
+  "uri": "spotify:playlist:37i9dQZF1DX8f6LHxMjnzD",
+  "name": "Singled Out",
+  "tracks": 40,
+  "category": "pop"
+}]
