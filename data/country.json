@@ -1,0 +1,451 @@
+[{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63a0"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda",
+  "uri": "spotify:playlist:37i9dQZF1DX1lVhptIYRda",
+  "name": "Hot Country",
+  "tracks": 50,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63a1"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWW7RgkOJG32Y",
+  "uri": "spotify:playlist:37i9dQZF1DWW7RgkOJG32Y",
+  "name": "Breakout Country",
+  "tracks": 80,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63a2"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWUgBy0IJPlHq",
+  "uri": "spotify:playlist:37i9dQZF1DWUgBy0IJPlHq",
+  "name": "Indigo",
+  "tracks": 100,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63a3"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX0bUGQdz5BJG",
+  "uri": "spotify:playlist:37i9dQZF1DX0bUGQdz5BJG",
+  "name": "Next From Nashville",
+  "tracks": 122,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63a4"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWTkxQvqMy4WW",
+  "uri": "spotify:playlist:37i9dQZF1DWTkxQvqMy4WW",
+  "name": "Chillin' on a Dirt Road",
+  "tracks": 80,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63a5"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWVpjAJGB70vU",
+  "uri": "spotify:playlist:37i9dQZF1DWVpjAJGB70vU",
+  "name": "90's Country",
+  "tracks": 60,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63a6"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXdxUH6sNtcDe",
+  "uri": "spotify:playlist:37i9dQZF1DXdxUH6sNtcDe",
+  "name": "2000s Country",
+  "tracks": 153,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63a7"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXbIbVYph0Zr5",
+  "uri": "spotify:playlist:37i9dQZF1DXbIbVYph0Zr5",
+  "name": "Country Cookout",
+  "tracks": 93,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63a8"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWXdiK4WAVRUW",
+  "uri": "spotify:playlist:37i9dQZF1DWXdiK4WAVRUW",
+  "name": "2010s Country",
+  "tracks": 179,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63a9"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXcSzYlwgjiSi",
+  "uri": "spotify:playlist:37i9dQZF1DXcSzYlwgjiSi",
+  "name": "Party Cove",
+  "tracks": 83,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63aa"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWYnwbYQ5HnZU",
+  "uri": "spotify:playlist:37i9dQZF1DWYnwbYQ5HnZU",
+  "name": "Country Gold",
+  "tracks": 64,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63ab"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX7aUUBCKwo4Y",
+  "uri": "spotify:playlist:37i9dQZF1DX7aUUBCKwo4Y",
+  "name": "Nashville's Worldwide Hot 50",
+  "tracks": 50,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63ac"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXaJXCbmtHVHV",
+  "uri": "spotify:playlist:37i9dQZF1DXaJXCbmtHVHV",
+  "name": "Big Country",
+  "tracks": 50,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63ad"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8S0uQvJ4gaa",
+  "uri": "spotify:playlist:37i9dQZF1DX8S0uQvJ4gaa",
+  "name": "New Boots",
+  "tracks": 80,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63ae"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8WMG8VPSOJC",
+  "uri": "spotify:playlist:37i9dQZF1DX8WMG8VPSOJC",
+  "name": "Country Kind of Love",
+  "tracks": 75,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63af"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX6rVyqO2FaN8",
+  "uri": "spotify:playlist:37i9dQZF1DX6rVyqO2FaN8",
+  "name": "Still Hot",
+  "tracks": 58,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63b0"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX1KHLbhJkg7B",
+  "uri": "spotify:playlist:37i9dQZF1DX1KHLbhJkg7B",
+  "name": "Country Covers",
+  "tracks": 100,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63b1"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX6RCydf9ytsj",
+  "uri": "spotify:playlist:37i9dQZF1DX6RCydf9ytsj",
+  "name": "Country's Greatest Hits:  The '80s",
+  "tracks": 163,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63b2"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXdgnLr18vPvu",
+  "uri": "spotify:playlist:37i9dQZF1DXdgnLr18vPvu",
+  "name": "Tailgate Party",
+  "tracks": 83,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63b3"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX05oRSrPGj3d",
+  "uri": "spotify:playlist:37i9dQZF1DX05oRSrPGj3d",
+  "name": "Heart Of Texas",
+  "tracks": 52,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63b4"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWZBCPUIUs2iR",
+  "uri": "spotify:playlist:37i9dQZF1DWZBCPUIUs2iR",
+  "name": "Country's Greatest Hits",
+  "tracks": 99,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63b5"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWWH0izG4erma",
+  "uri": "spotify:playlist:37i9dQZF1DWWH0izG4erma",
+  "name": "Country Rocks",
+  "tracks": 76,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63b6"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX13kFuGnInkY",
+  "uri": "spotify:playlist:37i9dQZF1DX13kFuGnInkY",
+  "name": "ACM Awards 2021",
+  "tracks": 102,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63b7"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWYiR2Uqcon0X",
+  "uri": "spotify:playlist:37i9dQZF1DWYiR2Uqcon0X",
+  "name": "Country Coffeehouse",
+  "tracks": 82,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63b8"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWXepGEFFmQXJ",
+  "uri": "spotify:playlist:37i9dQZF1DWXepGEFFmQXJ",
+  "name": "Fresh Country",
+  "tracks": 60,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63b9"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX49poIUZYXp7",
+  "uri": "spotify:playlist:37i9dQZF1DX49poIUZYXp7",
+  "name": "Women of Country",
+  "tracks": 134,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63ba"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXbDjX0hus3Iu",
+  "uri": "spotify:playlist:37i9dQZF1DXbDjX0hus3Iu",
+  "name": "Southern Rock 101",
+  "tracks": 106,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63bb"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX7M1twJ8D6TS",
+  "uri": "spotify:playlist:37i9dQZF1DX7M1twJ8D6TS",
+  "name": "Texas Music Rewind",
+  "tracks": 79,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63bc"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX3Ee0ngF5ZVQ",
+  "uri": "spotify:playlist:37i9dQZF1DX3Ee0ngF5ZVQ",
+  "name": "Texas Music Now",
+  "tracks": 81,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63bd"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX9hWdQ46pHPo",
+  "uri": "spotify:playlist:37i9dQZF1DX9hWdQ46pHPo",
+  "name": "Forever Country",
+  "tracks": 78,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63be"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX7CGYgLhqwu5",
+  "uri": "spotify:playlist:37i9dQZF1DX7CGYgLhqwu5",
+  "name": "60s Country",
+  "tracks": 102,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63bf"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWYvU2z6HruAo",
+  "uri": "spotify:playlist:37i9dQZF1DWYvU2z6HruAo",
+  "name": "Hot Country Presents:  Best Country Songs of 2020",
+  "tracks": 62,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63c0"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX4bf0P6HTTom",
+  "uri": "spotify:playlist:37i9dQZF1DX4bf0P6HTTom",
+  "name": "Country Rock Classics",
+  "tracks": 49,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63c1"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWU2LcZVHsTdv",
+  "uri": "spotify:playlist:37i9dQZF1DWU2LcZVHsTdv",
+  "name": "Country by the Grace of God",
+  "tracks": 85,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63c2"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX5mB2C8gBeUM",
+  "uri": "spotify:playlist:37i9dQZF1DX5mB2C8gBeUM",
+  "name": "Wild Country",
+  "tracks": 109,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63c3"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWTQrwBpetTXv",
+  "uri": "spotify:playlist:37i9dQZF1DWTQrwBpetTXv",
+  "name": "#SpotifyTBT: Women of Country",
+  "tracks": 70,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63c4"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWXi7h4mmmkzD",
+  "uri": "spotify:playlist:37i9dQZF1DWXi7h4mmmkzD",
+  "name": "Country Nights",
+  "tracks": 93,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63c5"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWSCp8Clax7tf",
+  "uri": "spotify:playlist:37i9dQZF1DWSCp8Clax7tf",
+  "name": "Legendary Women of Country",
+  "tracks": 90,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63c6"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWUPRADzDnbMq",
+  "uri": "spotify:playlist:37i9dQZF1DWUPRADzDnbMq",
+  "name": "Gulf & Western",
+  "tracks": 53,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63c7"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWYBXdN7izJSV",
+  "uri": "spotify:playlist:37i9dQZF1DWYBXdN7izJSV",
+  "name": "Alt Country Classics",
+  "tracks": 75,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63c8"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWYP5PUsVbso9",
+  "uri": "spotify:playlist:37i9dQZF1DWYP5PUsVbso9",
+  "name": "70s Country",
+  "tracks": 96,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63c9"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX5OrO2Jxuvdn",
+  "uri": "spotify:playlist:37i9dQZF1DX5OrO2Jxuvdn",
+  "name": "Country Workout",
+  "tracks": 125,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63ca"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWWnpcjfCqaW0",
+  "uri": "spotify:playlist:37i9dQZF1DWWnpcjfCqaW0",
+  "name": "50s Country",
+  "tracks": 96,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63cb"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXdDIhtzn7T2e",
+  "uri": "spotify:playlist:37i9dQZF1DXdDIhtzn7T2e",
+  "name": "Greener Pastures",
+  "tracks": 52,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63cc"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWVn8zvR5ROMB",
+  "uri": "spotify:playlist:37i9dQZF1DWVn8zvR5ROMB",
+  "name": "New Music Nashville",
+  "tracks": 126,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63cd"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXdmMcgFhLQ8u",
+  "uri": "spotify:playlist:37i9dQZF1DXdmMcgFhLQ8u",
+  "name": "Country Heartache",
+  "tracks": 75,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63ce"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWYUfsq4hxHWP",
+  "uri": "spotify:playlist:37i9dQZF1DWYUfsq4hxHWP",
+  "name": "Fresh Finds: Country",
+  "tracks": 101,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63cf"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX2ViysbCzMHO",
+  "uri": "spotify:playlist:37i9dQZF1DX2ViysbCzMHO",
+  "name": "Nashville Stripped",
+  "tracks": 99,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63d0"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWSttCmn8GHUg",
+  "uri": "spotify:playlist:37i9dQZF1DWSttCmn8GHUg",
+  "name": "Country Music 101:  God Bless the USA",
+  "tracks": 72,
+  "category": "country"
+},{
+  "_id": {
+    "$oid": "6099c1c8a788b24c3fdc63d1"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXcYKwAtV4NDh",
+  "uri": "spotify:playlist:37i9dQZF1DXcYKwAtV4NDh",
+  "name": "History of Country Music",
+  "tracks": 107,
+  "category": "country"
+}]

@@ -1,0 +1,388 @@
+[{
+  "_id": {
+    "$oid": "6099c1faa788b24c3fdc6404"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd",
+  "uri": "spotify:playlist:37i9dQZF1DX0XUsuxWHRQd",
+  "name": "RapCaviar",
+  "tracks": 50,
+  "category": "hiphop"
+},{
+  "_id": {
+    "$oid": "6099c1faa788b24c3fdc6405"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX6GwdWRQMQpq",
+  "uri": "spotify:playlist:37i9dQZF1DX6GwdWRQMQpq",
+  "name": "Feelin' Myself",
+  "tracks": 50,
+  "category": "hiphop"
+},{
+  "_id": {
+    "$oid": "6099c1faa788b24c3fdc6406"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX2RxBh64BHjQ",
+  "uri": "spotify:playlist:37i9dQZF1DX2RxBh64BHjQ",
+  "name": "Most Necessary",
+  "tracks": 100,
+  "category": "hiphop"
+},{
+  "_id": {
+    "$oid": "6099c1faa788b24c3fdc6407"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX0Tkc6ltcBfU",
+  "uri": "spotify:playlist:37i9dQZF1DX0Tkc6ltcBfU",
+  "name": "No Cap",
+  "tracks": 50,
+  "category": "hiphop"
+},{
+  "_id": {
+    "$oid": "6099c1faa788b24c3fdc6408"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWY4xHQp97fN6",
+  "uri": "spotify:playlist:37i9dQZF1DWY4xHQp97fN6",
+  "name": "Get Turnt",
+  "tracks": 100,
+  "category": "hiphop"
+},{
+  "_id": {
+    "$oid": "6099c1faa788b24c3fdc6409"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX186v583rmzp",
+  "uri": "spotify:playlist:37i9dQZF1DX186v583rmzp",
+  "name": "I Love My '90s Hip-Hop",
+  "tracks": 100,
+  "category": "hiphop"
+},{
+  "_id": {
+    "$oid": "6099c1faa788b24c3fdc640a"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX9oh43oAzkyx",
+  "uri": "spotify:playlist:37i9dQZF1DX9oh43oAzkyx",
+  "name": "Beast Mode Hip-Hop",
+  "tracks": 76,
+  "category": "hiphop"
+},{
+  "_id": {
+    "$oid": "6099c1faa788b24c3fdc640b"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX6OgmB2fwLGd",
+  "uri": "spotify:playlist:37i9dQZF1DX6OgmB2fwLGd",
+  "name": "Internet People",
+  "tracks": 103,
+  "category": "hiphop"
+},{
+  "_id": {
+    "$oid": "6099c1faa788b24c3fdc640c"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWT5MrZnPU1zD",
+  "uri": "spotify:playlist:37i9dQZF1DWT5MrZnPU1zD",
+  "name": "Hip Hop Controller",
+  "tracks": 100,
+  "category": "hiphop"
+},{
+  "_id": {
+    "$oid": "6099c1faa788b24c3fdc640d"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWUFmyho2wkQU",
+  "uri": "spotify:playlist:37i9dQZF1DWUFmyho2wkQU",
+  "name": "Hip-Hop Drive",
+  "tracks": 150,
+  "category": "hiphop"
+},{
+  "_id": {
+    "$oid": "6099c1faa788b24c3fdc640e"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8dTWjpijlub",
+  "uri": "spotify:playlist:37i9dQZF1DX8dTWjpijlub",
+  "name": "Trophy Room",
+  "tracks": 50,
+  "category": "hiphop"
+},{
+  "_id": {
+    "$oid": "6099c1faa788b24c3fdc640f"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWYok9l1JL7GM",
+  "uri": "spotify:playlist:37i9dQZF1DWYok9l1JL7GM",
+  "name": "I Love My Down South Classics",
+  "tracks": 50,
+  "category": "hiphop"
+},{
+  "_id": {
+    "$oid": "6099c1faa788b24c3fdc6410"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX76t638V6CA8",
+  "uri": "spotify:playlist:37i9dQZF1DX76t638V6CA8",
+  "name": "Rap Workout",
+  "tracks": 59,
+  "category": "hiphop"
+},{
+  "_id": {
+    "$oid": "6099c1faa788b24c3fdc6411"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX9sQDbOMReFI",
+  "uri": "spotify:playlist:37i9dQZF1DX9sQDbOMReFI",
+  "name": "I Love My West Coast Classics",
+  "tracks": 50,
+  "category": "hiphop"
+},{
+  "_id": {
+    "$oid": "6099c1faa788b24c3fdc6412"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX6xZZEgC9Ubl",
+  "uri": "spotify:playlist:37i9dQZF1DX6xZZEgC9Ubl",
+  "name": "tear drop",
+  "tracks": 150,
+  "category": "hiphop"
+},{
+  "_id": {
+    "$oid": "6099c1faa788b24c3fdc6413"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXaxIqwkEGFEh",
+  "uri": "spotify:playlist:37i9dQZF1DXaxIqwkEGFEh",
+  "name": "Out The Mud",
+  "tracks": 100,
+  "category": "hiphop"
+},{
+  "_id": {
+    "$oid": "6099c1faa788b24c3fdc6414"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWX3387IZmjNa",
+  "uri": "spotify:playlist:37i9dQZF1DWX3387IZmjNa",
+  "name": "B.A.E.",
+  "tracks": 51,
+  "category": "hiphop"
+},{
+  "_id": {
+    "$oid": "6099c1faa788b24c3fdc6415"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX4SrOBCjlfVi",
+  "uri": "spotify:playlist:37i9dQZF1DX4SrOBCjlfVi",
+  "name": "New Joints",
+  "tracks": 51,
+  "category": "hiphop"
+},{
+  "_id": {
+    "$oid": "6099c1faa788b24c3fdc6416"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWVA1Gq4XHa6U",
+  "uri": "spotify:playlist:37i9dQZF1DWVA1Gq4XHa6U",
+  "name": "Gold School",
+  "tracks": 50,
+  "category": "hiphop"
+},{
+  "_id": {
+    "$oid": "6099c1faa788b24c3fdc6417"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWTJzNR1J5ygQ",
+  "uri": "spotify:playlist:37i9dQZF1DWTJzNR1J5ygQ",
+  "name": "I Love My Midwest Classics",
+  "tracks": 50,
+  "category": "hiphop"
+},{
+  "_id": {
+    "$oid": "6099c1faa788b24c3fdc6418"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWT6MhXz0jw61",
+  "uri": "spotify:playlist:37i9dQZF1DWT6MhXz0jw61",
+  "name": "Mellow Bars",
+  "tracks": 101,
+  "category": "hiphop"
+},{
+  "_id": {
+    "$oid": "6099c1faa788b24c3fdc6419"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX0HRj9P7NxeE",
+  "uri": "spotify:playlist:37i9dQZF1DX0HRj9P7NxeE",
+  "name": "Workout Twerkout",
+  "tracks": 50,
+  "category": "hiphop"
+},{
+  "_id": {
+    "$oid": "6099c1faa788b24c3fdc641a"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXaitacWUJMPH",
+  "uri": "spotify:playlist:37i9dQZF1DXaitacWUJMPH",
+  "name": "2 . 24",
+  "tracks": 24,
+  "category": "hiphop"
+},{
+  "_id": {
+    "$oid": "6099c1faa788b24c3fdc641b"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX1YPTAhwehsC",
+  "uri": "spotify:playlist:37i9dQZF1DX1YPTAhwehsC",
+  "name": "State of Mind",
+  "tracks": 50,
+  "category": "hiphop"
+},{
+  "_id": {
+    "$oid": "6099c1faa788b24c3fdc641c"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX2A29LI7xHn1",
+  "uri": "spotify:playlist:37i9dQZF1DX2A29LI7xHn1",
+  "name": "Signed XOXO",
+  "tracks": 101,
+  "category": "hiphop"
+},{
+  "_id": {
+    "$oid": "6099c1faa788b24c3fdc641d"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWYGxBNe4qojI",
+  "uri": "spotify:playlist:37i9dQZF1DWYGxBNe4qojI",
+  "name": "I Love My East Coast Classics",
+  "tracks": 50,
+  "category": "hiphop"
+},{
+  "_id": {
+    "$oid": "6099c1faa788b24c3fdc641e"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWTggY0yqBxES",
+  "uri": "spotify:playlist:37i9dQZF1DWTggY0yqBxES",
+  "name": "Alternative Hip Hop",
+  "tracks": 50,
+  "category": "hiphop"
+},{
+  "_id": {
+    "$oid": "6099c1faa788b24c3fdc641f"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX5hR0J49CmXC",
+  "uri": "spotify:playlist:37i9dQZF1DX5hR0J49CmXC",
+  "name": "Mind Right",
+  "tracks": 50,
+  "category": "hiphop"
+},{
+  "_id": {
+    "$oid": "6099c1faa788b24c3fdc6420"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWSUur0QPPsOn",
+  "uri": "spotify:playlist:37i9dQZF1DWSUur0QPPsOn",
+  "name": "Taste",
+  "tracks": 50,
+  "category": "hiphop"
+},{
+  "_id": {
+    "$oid": "6099c1faa788b24c3fdc6421"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWSTeI2WWFaia",
+  "uri": "spotify:playlist:37i9dQZF1DWSTeI2WWFaia",
+  "name": "Spilled Ink",
+  "tracks": 50,
+  "category": "hiphop"
+},{
+  "_id": {
+    "$oid": "6099c1faa788b24c3fdc6422"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWTplaZ1W7ARf",
+  "uri": "spotify:playlist:37i9dQZF1DWTplaZ1W7ARf",
+  "name": "Street Soul",
+  "tracks": 48,
+  "category": "hiphop"
+},{
+  "_id": {
+    "$oid": "6099c1faa788b24c3fdc6423"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX9iGsUcr0Bpa",
+  "uri": "spotify:playlist:37i9dQZF1DX9iGsUcr0Bpa",
+  "name": "Door Knockers",
+  "tracks": 50,
+  "category": "hiphop"
+},{
+  "_id": {
+    "$oid": "6099c1faa788b24c3fdc6424"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWSvKsRPPnv5o",
+  "uri": "spotify:playlist:37i9dQZF1DWSvKsRPPnv5o",
+  "name": "Westside Story",
+  "tracks": 52,
+  "category": "hiphop"
+},{
+  "_id": {
+    "$oid": "6099c1faa788b24c3fdc6425"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX91gZ5XTbTPm",
+  "uri": "spotify:playlist:37i9dQZF1DX91gZ5XTbTPm",
+  "name": "CST",
+  "tracks": 50,
+  "category": "hiphop"
+},{
+  "_id": {
+    "$oid": "6099c1faa788b24c3fdc6426"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXdUAMxTn0rVu",
+  "uri": "spotify:playlist:37i9dQZF1DXdUAMxTn0rVu",
+  "name": "I Love My Underground Classics",
+  "tracks": 50,
+  "category": "hiphop"
+},{
+  "_id": {
+    "$oid": "6099c1faa788b24c3fdc6427"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXbH5bzpmFWXy",
+  "uri": "spotify:playlist:37i9dQZF1DXbH5bzpmFWXy",
+  "name": "El Barrio MP3",
+  "tracks": 50,
+  "category": "hiphop"
+},{
+  "_id": {
+    "$oid": "6099c1faa788b24c3fdc6428"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWWIfrT204w7E",
+  "uri": "spotify:playlist:37i9dQZF1DWWIfrT204w7E",
+  "name": "City to City",
+  "tracks": 50,
+  "category": "hiphop"
+},{
+  "_id": {
+    "$oid": "6099c1faa788b24c3fdc6429"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX2XmsXL2WBQd",
+  "uri": "spotify:playlist:37i9dQZF1DX2XmsXL2WBQd",
+  "name": "I Love My '80s Hip-Hop",
+  "tracks": 70,
+  "category": "hiphop"
+},{
+  "_id": {
+    "$oid": "6099c1faa788b24c3fdc642a"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX1aTyQ3Z9nTc",
+  "uri": "spotify:playlist:37i9dQZF1DX1aTyQ3Z9nTc",
+  "name": "Choice Edit",
+  "tracks": 75,
+  "category": "hiphop"
+},{
+  "_id": {
+    "$oid": "6099c1faa788b24c3fdc642b"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX3KoYiZJ8DD4",
+  "uri": "spotify:playlist:37i9dQZF1DX3KoYiZJ8DD4",
+  "name": "Sample School",
+  "tracks": 24,
+  "category": "hiphop"
+},{
+  "_id": {
+    "$oid": "6099c1faa788b24c3fdc642c"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWW4igXXl2Qkp",
+  "uri": "spotify:playlist:37i9dQZF1DWW4igXXl2Qkp",
+  "name": "Fresh Finds: Hip Hop",
+  "tracks": 50,
+  "category": "hiphop"
+},{
+  "_id": {
+    "$oid": "6099c1faa788b24c3fdc642d"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL",
+  "uri": "spotify:playlist:37i9dQZF1DX59ogDi1Z2XL",
+  "name": "Northern Bars",
+  "tracks": 94,
+  "category": "hiphop"
+},{
+  "_id": {
+    "$oid": "6099c1faa788b24c3fdc642e"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWWAqc46ZJdZf",
+  "uri": "spotify:playlist:37i9dQZF1DWWAqc46ZJdZf",
+  "name": "Black Lives Matter",
+  "tracks": 60,
+  "category": "hiphop"
+}]

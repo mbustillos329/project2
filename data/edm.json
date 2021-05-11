@@ -1,0 +1,451 @@
+[{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63d2"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX4dyzvuaRJ0n",
+  "uri": "spotify:playlist:37i9dQZF1DX4dyzvuaRJ0n",
+  "name": "mint",
+  "tracks": 91,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63d3"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8tZsk68tuDw",
+  "uri": "spotify:playlist:37i9dQZF1DX8tZsk68tuDw",
+  "name": "Dance Rising",
+  "tracks": 100,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63d4"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX3FNkD0kDpDV",
+  "uri": "spotify:playlist:37i9dQZF1DX3FNkD0kDpDV",
+  "name": "ZHU Guest List",
+  "tracks": 39,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63d5"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWWOGXILUAh53",
+  "uri": "spotify:playlist:37i9dQZF1DWWOGXILUAh53",
+  "name": "Fresh Dance Pop",
+  "tracks": 98,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63d6"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXa2PvUpywmrr",
+  "uri": "spotify:playlist:37i9dQZF1DXa2PvUpywmrr",
+  "name": "Party Hits",
+  "tracks": 75,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63d7"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWSf2RDTDayIx",
+  "uri": "spotify:playlist:37i9dQZF1DWSf2RDTDayIx",
+  "name": "Happy Beats",
+  "tracks": 125,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63d8"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX0BcQWzuB7ZO",
+  "uri": "spotify:playlist:37i9dQZF1DX0BcQWzuB7ZO",
+  "name": "Dance Hits",
+  "tracks": 75,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63d9"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX0hvSv9Rf41p",
+  "uri": "spotify:playlist:37i9dQZF1DX0hvSv9Rf41p",
+  "name": "Bass Arcade",
+  "tracks": 125,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63da"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX4eRPd9frC1m",
+  "uri": "spotify:playlist:37i9dQZF1DX4eRPd9frC1m",
+  "name": "Hype",
+  "tracks": 181,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63db"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXaXB8fQg7xif",
+  "uri": "spotify:playlist:37i9dQZF1DXaXB8fQg7xif",
+  "name": "Dance Party",
+  "tracks": 100,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63dc"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX6VdMW310YC7",
+  "uri": "spotify:playlist:37i9dQZF1DX6VdMW310YC7",
+  "name": "Chill Tracks",
+  "tracks": 291,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63dd"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXcZDD7cfEKhW",
+  "uri": "spotify:playlist:37i9dQZF1DXcZDD7cfEKhW",
+  "name": "Pop Remix",
+  "tracks": 50,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63de"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX0AMssoUKCz7",
+  "uri": "spotify:playlist:37i9dQZF1DX0AMssoUKCz7",
+  "name": "Tropical House",
+  "tracks": 200,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63df"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWXLeA8Omikj7",
+  "uri": "spotify:playlist:37i9dQZF1DWXLeA8Omikj7",
+  "name": "Brain Food",
+  "tracks": 100,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63e0"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXdgz8ZB7c2CP",
+  "uri": "spotify:playlist:37i9dQZF1DXdgz8ZB7c2CP",
+  "name": "creamy",
+  "tracks": 102,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63e1"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXa8NOEUWPn9W",
+  "uri": "spotify:playlist:37i9dQZF1DXa8NOEUWPn9W",
+  "name": "Housewerk",
+  "tracks": 91,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63e2"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXdLEN7aqioXM",
+  "uri": "spotify:playlist:37i9dQZF1DXdLEN7aqioXM",
+  "name": "RetroWave / Outrun",
+  "tracks": 60,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63e3"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXa41CMuUARjl",
+  "uri": "spotify:playlist:37i9dQZF1DXa41CMuUARjl",
+  "name": "Friday Cratediggers",
+  "tracks": 129,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63e4"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX91oIci4su1D",
+  "uri": "spotify:playlist:37i9dQZF1DX91oIci4su1D",
+  "name": "Trance Mission",
+  "tracks": 200,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63e5"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX2TRYkJECvfC",
+  "uri": "spotify:playlist:37i9dQZF1DX2TRYkJECvfC",
+  "name": "Deep House Relax",
+  "tracks": 200,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63e6"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX32NsLKyzScr",
+  "uri": "spotify:playlist:37i9dQZF1DX32NsLKyzScr",
+  "name": "Power Hour",
+  "tracks": 157,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63e7"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWZCdOD1jAvLL",
+  "uri": "spotify:playlist:37i9dQZF1DWZCdOD1jAvLL",
+  "name": "Bangers",
+  "tracks": 80,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63e8"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX6GJXiuZRisr",
+  "uri": "spotify:playlist:37i9dQZF1DX6GJXiuZRisr",
+  "name": "Night Rider",
+  "tracks": 380,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63e9"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX97SIuADeA1Y",
+  "uri": "spotify:playlist:37i9dQZF1DX97SIuADeA1Y",
+  "name": "SLAP!",
+  "tracks": 60,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63ea"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWUq3wF0JVtEy",
+  "uri": "spotify:playlist:37i9dQZF1DWUq3wF0JVtEy",
+  "name": "Shuffle Syndrome",
+  "tracks": 100,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63eb"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWZ7eJRBxKzdO",
+  "uri": "spotify:playlist:37i9dQZF1DWZ7eJRBxKzdO",
+  "name": "Summer Dance Hits",
+  "tracks": 100,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63ec"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8a1tdzq5tbM",
+  "uri": "spotify:playlist:37i9dQZF1DX8a1tdzq5tbM",
+  "name": "Dance Classics",
+  "tracks": 120,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63ed"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8D2YR1GbW3K",
+  "uri": "spotify:playlist:37i9dQZF1DX8D2YR1GbW3K",
+  "name": "Headliners",
+  "tracks": 125,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63ee"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXafD1g5rer7q",
+  "uri": "spotify:playlist:37i9dQZF1DXafD1g5rer7q",
+  "name": "EDM Samplings",
+  "tracks": 50,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63ef"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWSRc3WJklgBs",
+  "uri": "spotify:playlist:37i9dQZF1DWSRc3WJklgBs",
+  "name": "Heart Beats",
+  "tracks": 200,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63f0"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWTfrr8pte1rT",
+  "uri": "spotify:playlist:37i9dQZF1DWTfrr8pte1rT",
+  "name": "Rocktronic",
+  "tracks": 100,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63f1"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX1OxnjWYRVU0",
+  "uri": "spotify:playlist:37i9dQZF1DX1OxnjWYRVU0",
+  "name": "Dance Covers",
+  "tracks": 216,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63f2"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX5Q27plkaOQ3",
+  "uri": "spotify:playlist:37i9dQZF1DX5Q27plkaOQ3",
+  "name": "Dubstep Don",
+  "tracks": 86,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63f3"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXayr1BrK1OaY",
+  "uri": "spotify:playlist:37i9dQZF1DXayr1BrK1OaY",
+  "name": "crying on the dance floor",
+  "tracks": 75,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63f4"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8CopunbDxgW",
+  "uri": "spotify:playlist:37i9dQZF1DX8CopunbDxgW",
+  "name": "metropolis",
+  "tracks": 95,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63f5"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX6J5NfMJS675",
+  "uri": "spotify:playlist:37i9dQZF1DX6J5NfMJS675",
+  "name": "Techno Bunker",
+  "tracks": 60,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63f6"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXdURFimg6Blm",
+  "uri": "spotify:playlist:37i9dQZF1DXdURFimg6Blm",
+  "name": "Beast Mode Dance",
+  "tracks": 100,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63f7"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXbtYAdenGE9U",
+  "uri": "spotify:playlist:37i9dQZF1DXbtYAdenGE9U",
+  "name": "Trance Classics",
+  "tracks": 50,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63f8"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWW7BONj8RiqI",
+  "uri": "spotify:playlist:37i9dQZF1DWW7BONj8RiqI",
+  "name": "Massive Soca Hits",
+  "tracks": 100,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63f9"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXbjGYBfEmjR5",
+  "uri": "spotify:playlist:37i9dQZF1DXbjGYBfEmjR5",
+  "name": "Future Funk",
+  "tracks": 100,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63fa"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX1OIMC8iDi74",
+  "uri": "spotify:playlist:37i9dQZF1DX1OIMC8iDi74",
+  "name": "Trap Mojito",
+  "tracks": 100,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63fb"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWVY4eLfA3XFQ",
+  "uri": "spotify:playlist:37i9dQZF1DWVY4eLfA3XFQ",
+  "name": "Operator",
+  "tracks": 176,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63fc"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWU4EQPjP9ZpS",
+  "uri": "spotify:playlist:37i9dQZF1DWU4EQPjP9ZpS",
+  "name": "vaporwave",
+  "tracks": 100,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63fd"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX3FJKV5EZtau",
+  "uri": "spotify:playlist:37i9dQZF1DX3FJKV5EZtau",
+  "name": "Pixel Garden",
+  "tracks": 100,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63fe"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX2VvACCrgjrt",
+  "uri": "spotify:playlist:37i9dQZF1DX2VvACCrgjrt",
+  "name": "Nasty Bits",
+  "tracks": 100,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc63ff"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX0pH2SQMRXnC",
+  "uri": "spotify:playlist:37i9dQZF1DX0pH2SQMRXnC",
+  "name": "Hardstyle Bangers",
+  "tracks": 200,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc6400"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX0r3x8OtiwEM",
+  "uri": "spotify:playlist:37i9dQZF1DX0r3x8OtiwEM",
+  "name": "Lowkey Tech",
+  "tracks": 60,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc6401"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX9cbNxuNYT3d",
+  "uri": "spotify:playlist:37i9dQZF1DX9cbNxuNYT3d",
+  "name": "French Touch",
+  "tracks": 50,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc6402"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXbXD9pMSZomS",
+  "uri": "spotify:playlist:37i9dQZF1DXbXD9pMSZomS",
+  "name": "Lo-Fi House",
+  "tracks": 60,
+  "category": "edm_dance"
+},{
+  "_id": {
+    "$oid": "6099c1e4a788b24c3fdc6403"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX3d2wagqzwmM",
+  "uri": "spotify:playlist:37i9dQZF1DX3d2wagqzwmM",
+  "name": "Big Room Dance",
+  "tracks": 60,
+  "category": "edm_dance"
+}]

@@ -1,0 +1,451 @@
+[{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc642f"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXb0COFso7q0D",
+  "uri": "spotify:playlist:37i9dQZF1DXb0COFso7q0D",
+  "name": "Los Que Mandan: Top 40",
+  "tracks": 40,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc6430"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX10zKzsJ2jva",
+  "uri": "spotify:playlist:37i9dQZF1DX10zKzsJ2jva",
+  "name": "¡Viva Latino!",
+  "tracks": 50,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc6431"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWY7IeIP1cdjF",
+  "uri": "spotify:playlist:37i9dQZF1DWY7IeIP1cdjF",
+  "name": "Baila Reggaeton",
+  "tracks": 50,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc6432"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX1hVRardJ30X",
+  "uri": "spotify:playlist:37i9dQZF1DX1hVRardJ30X",
+  "name": "New Music Friday Latin",
+  "tracks": 59,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc6433"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX4OjfOteYnH8",
+  "uri": "spotify:playlist:37i9dQZF1DX4OjfOteYnH8",
+  "name": "Urbano Rising",
+  "tracks": 55,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc6434"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX2MJVTOdWtbm",
+  "uri": "spotify:playlist:37i9dQZF1DX2MJVTOdWtbm",
+  "name": "Are & Be Latin",
+  "tracks": 85,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc6435"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWZoF06RIo9el",
+  "uri": "spotify:playlist:37i9dQZF1DWZoF06RIo9el",
+  "name": "Future Hits: Latin",
+  "tracks": 50,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc6436"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWYzQ2Vx5M6uV",
+  "uri": "spotify:playlist:37i9dQZF1DWYzQ2Vx5M6uV",
+  "name": "Afro Ritmo",
+  "tracks": 54,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc6437"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX5AVYhCeISA6",
+  "uri": "spotify:playlist:37i9dQZF1DX5AVYhCeISA6",
+  "name": "Inspiring Latinas",
+  "tracks": 75,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc6438"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXbSwbJpH6lAw",
+  "uri": "spotify:playlist:37i9dQZF1DXbSwbJpH6lAw",
+  "name": "Radar US Latin",
+  "tracks": 30,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc6439"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXagUeYbNSnOA",
+  "uri": "spotify:playlist:37i9dQZF1DXagUeYbNSnOA",
+  "name": "Fresh Finds: Latin",
+  "tracks": 50,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc643a"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXbdrcAZnP3Cy",
+  "uri": "spotify:playlist:37i9dQZF1DXbdrcAZnP3Cy",
+  "name": "Mexican Party Anthems",
+  "tracks": 90,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc643b"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX1QnNyJOBQBv",
+  "uri": "spotify:playlist:37i9dQZF1DX1QnNyJOBQBv",
+  "name": "Latin Pop Hits",
+  "tracks": 50,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc643c"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX4oUPBOaEkL6",
+  "uri": "spotify:playlist:37i9dQZF1DX4oUPBOaEkL6",
+  "name": "Éxitos USA",
+  "tracks": 50,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc643d"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX1ziQH0F90kL",
+  "uri": "spotify:playlist:37i9dQZF1DX1ziQH0F90kL",
+  "name": "Now & Then Reggaeton",
+  "tracks": 90,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc643e"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX07RJCJCOYpi",
+  "uri": "spotify:playlist:37i9dQZF1DX07RJCJCOYpi",
+  "name": "mint Latin",
+  "tracks": 64,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc643f"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX4V5eXk4NKqu",
+  "uri": "spotify:playlist:37i9dQZF1DX4V5eXk4NKqu",
+  "name": "Ultimate LatinX Indie",
+  "tracks": 100,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc6440"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX4qKWGR9z0LI",
+  "uri": "spotify:playlist:37i9dQZF1DX4qKWGR9z0LI",
+  "name": "Salsa Nation",
+  "tracks": 150,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc6441"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXbgLhPxSBEKX",
+  "uri": "spotify:playlist:37i9dQZF1DXbgLhPxSBEKX",
+  "name": "Grandes Voces",
+  "tracks": 50,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc6442"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX7Qo2zphj7u3",
+  "uri": "spotify:playlist:37i9dQZF1DX7Qo2zphj7u3",
+  "name": "Hits Románticos",
+  "tracks": 250,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc6443"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX5U9LWxuimGj",
+  "uri": "spotify:playlist:37i9dQZF1DX5U9LWxuimGj",
+  "name": "Country Latino",
+  "tracks": 49,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc6444"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX2lenzaqw2vs",
+  "uri": "spotify:playlist:37i9dQZF1DX2lenzaqw2vs",
+  "name": "Latin Pride",
+  "tracks": 82,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc6445"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWSDautEwAKZB",
+  "uri": "spotify:playlist:37i9dQZF1DWSDautEwAKZB",
+  "name": "Spotify Singles: Latino",
+  "tracks": 26,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc6446"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXbUMEWUyV9JB",
+  "uri": "spotify:playlist:37i9dQZF1DXbUMEWUyV9JB",
+  "name": "Super Cumbias",
+  "tracks": 50,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc6447"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXbLMw3ry7d7k",
+  "uri": "spotify:playlist:37i9dQZF1DXbLMw3ry7d7k",
+  "name": "Latin Hit Mix",
+  "tracks": 100,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc6448"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo",
+  "uri": "spotify:playlist:37i9dQZF1DX8sljIJzI0oo",
+  "name": "Fuego",
+  "tracks": 55,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc6449"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8SfyqmSFDwe",
+  "uri": "spotify:playlist:37i9dQZF1DX8SfyqmSFDwe",
+  "name": "Reggaeton Classics",
+  "tracks": 100,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc644a"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX65py6HnnlE1",
+  "uri": "spotify:playlist:37i9dQZF1DX65py6HnnlE1",
+  "name": "Bachata Classics",
+  "tracks": 50,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc644b"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWTmGGCbcoQhY",
+  "uri": "spotify:playlist:37i9dQZF1DWTmGGCbcoQhY",
+  "name": "Cumbia Sonidera",
+  "tracks": 50,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc644c"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX7SeoIaFyTmA",
+  "uri": "spotify:playlist:37i9dQZF1DX7SeoIaFyTmA",
+  "name": "Salsa Classics",
+  "tracks": 90,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc644d"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWX5ZOsG2Ogi1",
+  "uri": "spotify:playlist:37i9dQZF1DWX5ZOsG2Ogi1",
+  "name": "Puro Perreo",
+  "tracks": 100,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc644e"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWYN0zdqzbEwl",
+  "uri": "spotify:playlist:37i9dQZF1DWYN0zdqzbEwl",
+  "name": "Rock en Español",
+  "tracks": 60,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc644f"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8yLfjPY8emY",
+  "uri": "spotify:playlist:37i9dQZF1DX8yLfjPY8emY",
+  "name": "100% Cumbia",
+  "tracks": 50,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc6450"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX2lVtkHKv2NU",
+  "uri": "spotify:playlist:37i9dQZF1DX2lVtkHKv2NU",
+  "name": "internet crush",
+  "tracks": 75,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc6451"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX6ThddIjWuGT",
+  "uri": "spotify:playlist:37i9dQZF1DX6ThddIjWuGT",
+  "name": "Latin Pop Classics",
+  "tracks": 100,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc6452"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWVcbzTgVpNRm",
+  "uri": "spotify:playlist:37i9dQZF1DWVcbzTgVpNRm",
+  "name": "Latin Party Anthems",
+  "tracks": 125,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc6453"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX9vJ2U3sN7xj",
+  "uri": "spotify:playlist:37i9dQZF1DX9vJ2U3sN7xj",
+  "name": "Fiesta",
+  "tracks": 106,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc6454"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWXYWuNDAdJsw",
+  "uri": "spotify:playlist:37i9dQZF1DWXYWuNDAdJsw",
+  "name": "Perrear y Llorar",
+  "tracks": 86,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc6455"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWZdsS73T1ogG",
+  "uri": "spotify:playlist:37i9dQZF1DWZdsS73T1ogG",
+  "name": "New Urbano",
+  "tracks": 57,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc6456"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX7HGyCQ2dcNx",
+  "uri": "spotify:playlist:37i9dQZF1DX7HGyCQ2dcNx",
+  "name": "This Is J Balvin",
+  "tracks": 95,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc6457"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX20VDU4OIBfS",
+  "uri": "spotify:playlist:37i9dQZF1DX20VDU4OIBfS",
+  "name": "Canciones del Recuerdo",
+  "tracks": 150,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc6458"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWXbMxJaAyCq1",
+  "uri": "spotify:playlist:37i9dQZF1DWXbMxJaAyCq1",
+  "name": "Remixes Urbanos",
+  "tracks": 75,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc6459"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX4g1k3dwPPvk",
+  "uri": "spotify:playlist:37i9dQZF1DX4g1k3dwPPvk",
+  "name": "90s Latino",
+  "tracks": 75,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc645a"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX3omIq8ziEt6",
+  "uri": "spotify:playlist:37i9dQZF1DX3omIq8ziEt6",
+  "name": "Esenciales",
+  "tracks": 150,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc645b"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX5y71ufjoyXC",
+  "uri": "spotify:playlist:37i9dQZF1DX5y71ufjoyXC",
+  "name": "Viral Latino",
+  "tracks": 50,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc645c"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWZQkHAMKYFuV",
+  "uri": "spotify:playlist:37i9dQZF1DWZQkHAMKYFuV",
+  "name": "10s Latino",
+  "tracks": 85,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc645d"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX68aCfKW9xMy",
+  "uri": "spotify:playlist:37i9dQZF1DX68aCfKW9xMy",
+  "name": "Mal de Amores",
+  "tracks": 50,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc645e"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX40AQSQVhD0g",
+  "uri": "spotify:playlist:37i9dQZF1DX40AQSQVhD0g",
+  "name": "Cleaning Kit en Español",
+  "tracks": 80,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc645f"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8evYJzHX5bn",
+  "uri": "spotify:playlist:37i9dQZF1DX8evYJzHX5bn",
+  "name": "This Is Marc Anthony",
+  "tracks": 62,
+  "category": "latin"
+},{
+  "_id": {
+    "$oid": "6099c217a788b24c3fdc6460"
+  },
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX7MTlMMRl0MD",
+  "uri": "spotify:playlist:37i9dQZF1DX7MTlMMRl0MD",
+  "name": "Bachata Lovers",
+  "tracks": 150,
+  "category": "latin"
+}]
